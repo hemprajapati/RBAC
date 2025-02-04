@@ -1,0 +1,33 @@
+[
+  { "id": 1, "name": "Admin" },
+  { "id": 2, "name": "Doctor" },
+  { "id": 3, "name": "Nurse" },
+  {
+    "id": 4, "name": "Receptionist"
+  },
+  {
+    "id": 5,
+    "name": "Legal Consultant"
+  },
+  {
+    "id": 6,
+    "name": "IT Specialist"
+  },
+  {
+    "id": 7,
+    "name": "Data Analyst"
+  },
+  {
+    "id": 8,
+    "name": "Medical Equipment Technician"
+  },
+  {
+    "id": 9,
+    "name": "Environmental Health Specialist"
+  },
+  {
+    "id": 10,
+    "name": "Volunteer",
+    "description": "Assists in non-medical patient care."
+  }
+]

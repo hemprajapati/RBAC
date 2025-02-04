@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "accessibleUser":[3,5,6,9,12],
+    "module_id": 8
+  },
+  {
+    "id": 1,
+    "accessibleUser":[1,8,6,3,9],
+    "module_id": 2
+  },
+  {
+    "id": 1,
+    "accessibleUser":[2,4,6,9,12],
+    "module_id": 3
+  },
+  {
+    "id": 4,
+    "accessibleUser":[7,11,18,20],
+    "module_id": 6
+  },
+  {
+    "id": 5,
+    "accessibleUser":[8,9,12,13,14,17,19],
+    "module_id": 1
+  },
+  {
+    "id": 6,
+    "accessibleUser":[7,12,14,16,43,27,19],
+    "module_id": 5
+  }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "user_id": 1,
+        "user_name": "johndoe",
+        "email": "john.doe@example.com",
+        "role_id": 7
+      },
+      {
+        "user_id": 2,
+        "user_name": "janedoe",
+        "email": "jane.doe@example.com",
+        "role_id": 3
+      },
+      {
+        "user_id": 3,
+        "user_name": "mikejones",
+        "email": "mike.jones@example.com",
+        "role_id": 2
+      },
+      {
+        "user_id": 4,
+        "user_name": "alicebrown",
+        "email": "alice.brown@example.com",
+        "role_id": 1
+      },
+      {
+        "user_id": 5,
+        "user_name": "bobjames",
+        "email": "bob.james@example.com",
+        "role_id": 3
+      },
+      {
+        "user_id": 6,
+        "user_name": "samsmith",
+        "email": "sam.smith@example.com",
+        "role_id": 2
+      },
+      {
+        "user_id": 7,
+        "user_name": "maryjones",
+        "email": "mary.jones@example.com",
+        "role_id": 8
+      },
+      {
+        "user_id": 8,
+        "user_name": "davidclark",
+        "email": "david.clark@example.com",
+        "role_id": 9
+      },
+      {
+        "user_id": 9,
+        "user_name": "susanlee",
+        "email": "susan.lee@example.com",
+        "role_id": 10
+      },
+      {
+        "user_id": 10,
+        "user_name": "jameswhite",
+        "email": "james.white@example.com",
+        "role_id": 1
+      },
+      {
+        "user_id": 11,
+        "user_name": "emilydavis",
+        "email": "emily.davis@example.com",
+        "role_id": 2
+      },
+      {
+        "user_id": 12,
+        "user_name": "markbrown",
+        "email": "mark.brown@example.com",
+        "role_id": 5
+      },
+      {
+        "user_id": 13,
+        "user_name": "lucywilson",
+        "email": "lucy.wilson@example.com",
+        "role_id": 6
+      },
+      {
+        "user_id": 14,
+        "user_name": "tonygreen",
+        "email": "tony.green@example.com",
+        "role_id": 8
+      },
+      {
+        "user_id": 15,
+        "user_name": "jacksonmiller",
+        "email": "jackson.miller@example.com",
+        "role_id": 7
+      },
+      {
+        "user_id": 16,
+        "user_name": "patriciaanderson",
+        "email": "patricia.anderson@example.com",
+        "role_id": 3
+      },
+      {
+        "user_id": 17,
+        "user_name": "chrismartin",
+        "email": "chris.martin@example.com",
+        "role_id": 5
+      },
+      {
+        "user_id": 18,
+        "user_name": "karenmoore",
+        "email": "karen.moore@example.com",
+        "role_id": 4
+      },
+      {
+        "user_id": 19,
+        "user_name": "williamjones",
+        "email": "william.jones@example.com",
+        "role_id": 1
+      },
+      {
+        "user_id": 20,
+        "user_name": "nancyclark",
+        "email": "nancy.clark@example.com",
+        "role_id": 9
+      }
+]
